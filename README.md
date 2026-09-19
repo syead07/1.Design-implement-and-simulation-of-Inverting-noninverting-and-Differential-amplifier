@@ -73,36 +73,48 @@ Choose R1 = 1kΩ, Rf=10kΩ
 7.	Plot the graph of the input wave versus output wave for any one practical case.
  
 **PIN DIAGRAM:**
+<img width="1537" height="799" alt="image" src="https://github.com/user-attachments/assets/caae294b-2f31-44fe-aa18-02a647c869b3" />
 
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="1585" height="863" alt="image" src="https://github.com/user-attachments/assets/85da3a8e-3811-464f-a7c2-d471fac54c6d" />
 
 
   **MODEL GRAPH:**
+<img width="1528" height="1080" alt="image" src="https://github.com/user-attachments/assets/5aa96272-1df0-436e-a862-9361601d753d" />
 
 
   **TABULATION:**
- 
+ <img width="1519" height="597" alt="image" src="https://github.com/user-attachments/assets/324b43e7-1255-45ca-be3c-7e0a84ddffae" />
+
 
 **MODEL CALCULATION:**
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="1516" height="902" alt="image" src="https://github.com/user-attachments/assets/b7fa7f75-6c82-4b63-a19c-7abd3891085d" />
 
 
   **MODEL GRAPH:**
+<img width="1529" height="1037" alt="image" src="https://github.com/user-attachments/assets/c5d719da-17d2-439d-a9a2-95f4cad64c29" />
 
 
   **TABULATION:**
+<img width="1461" height="736" alt="image" src="https://github.com/user-attachments/assets/83555a18-b16c-4518-9717-5ef7c8b0e55e" />
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="1599" height="1198" alt="image" src="https://github.com/user-attachments/assets/18d28268-a521-461c-bded-f93697cef849" />
 
 
   **MODEL GRAPH:**
+<img width="1500" height="1007" alt="image" src="https://github.com/user-attachments/assets/44a9d9b0-29cb-4027-96d7-2fe509a0e1d5" />
 
 
   **TABULATION:**
+  <img width="1428" height="779" alt="image" src="https://github.com/user-attachments/assets/3c2adf81-5d13-4330-a78f-70e80837a6dd" />
+
+  <img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/fc958616-c5f4-4ff0-afa3-2eb90deecbf0" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -115,7 +127,8 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+<img width="1600" height="817" alt="image" src="https://github.com/user-attachments/assets/fe6afa05-af87-4e84-98dc-5d8704c4f0c4" />
+
 
 **RESULT:**
 Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
