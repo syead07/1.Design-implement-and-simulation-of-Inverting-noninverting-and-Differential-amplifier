@@ -129,6 +129,12 @@ Choose R1 = 1kΩ, Rf=10kΩ
   **CIRCUIT and Waveform**
 <img width="1600" height="817" alt="image" src="https://github.com/user-attachments/assets/fe6afa05-af87-4e84-98dc-5d8704c4f0c4" />
 
+   <img width="1600" height="827" alt="image" src="https://github.com/user-attachments/assets/e7344719-7d8b-4e70-beba-656d79c1c25a" />
+
+
+
+   <img width="1600" height="808" alt="image" src="https://github.com/user-attachments/assets/ce91e76b-b5c1-40b7-a192-6c3baf640d05" />
+
 
 **RESULT:**
 Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
